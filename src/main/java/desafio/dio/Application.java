@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SantanderBootcampFullstack2023DioApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SantanderBootcampFullstack2023DioApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
